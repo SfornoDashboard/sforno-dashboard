@@ -8,7 +8,7 @@ import {
 const GH_OWNER = import.meta.env.VITE_GITHUB_OWNER;
 const GH_REPO  = import.meta.env.VITE_GITHUB_REPO;
 const GH_TOKEN = import.meta.env.VITE_GITHUB_TOKEN;
-const GH_PATH  = "data/sforno-data.json";
+const GH_PATH  = "sforno-data.json";
 const GH_BASE  = `https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/contents/${GH_PATH}`;
 
 async function ghLoad() {
