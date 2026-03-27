@@ -424,6 +424,13 @@
       "unit": "kg",
       "costo": 10,
       "catId": "carni_salumi"
+    },
+    {
+      "id": "ymi0i8a",
+      "nome": "Coca cola 33",
+      "unit": "pz",
+      "costo": 0.55,
+      "catId": "bibitebv2ejy3"
     }
   ],
   "recipeCats": [
