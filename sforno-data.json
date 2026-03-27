@@ -273,6 +273,75 @@
           "qty": 1
         }
       ]
+    },
+    {
+      "id": "5y7o3wm",
+      "name": "Combo 6 Amici",
+      "catId": "combo",
+      "emoji": "🎁",
+      "priceIva": 54.8,
+      "ingredienti": [
+        {
+          "nome": "Cartone Pizza",
+          "unit": "pz",
+          "qty": 6
+        },
+        {
+          "nome": "Panetto Pizza",
+          "unit": "pz",
+          "qty": 6
+        },
+        {
+          "nome": "Mozzarella",
+          "unit": "kg",
+          "qty": 0.48
+        },
+        {
+          "nome": "Salsa di Pomodoro",
+          "unit": "kg",
+          "qty": 0.54
+        },
+        {
+          "nome": "Olio EVO",
+          "unit": "L",
+          "qty": 0.0072
+        },
+        {
+          "nome": "Basilico",
+          "unit": "kg",
+          "qty": 0.003
+        },
+        {
+          "nome": "Cartone Fritto Mix",
+          "unit": "pz",
+          "qty": 3
+        },
+        {
+          "nome": "Patatine",
+          "unit": "kg",
+          "qty": 0.6000000000000001
+        },
+        {
+          "nome": "Panelle",
+          "unit": "kg",
+          "qty": 0.156
+        },
+        {
+          "nome": "Crocchette di Patate",
+          "unit": "pz",
+          "qty": 15
+        },
+        {
+          "nome": "Nuggets",
+          "unit": "pz",
+          "qty": 9
+        },
+        {
+          "nome": "Coca cola 33",
+          "unit": "pz",
+          "qty": 6
+        }
+      ]
     }
   ],
   "ingredienti": [
