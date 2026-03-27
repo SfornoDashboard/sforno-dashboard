@@ -219,6 +219,60 @@
           "unit": "pz"
         }
       ]
+    },
+    {
+      "id": "eoa95uw",
+      "name": "Menu margherita",
+      "catId": "combo",
+      "emoji": "🎁",
+      "priceIva": 6.9,
+      "ingredienti": [
+        {
+          "nome": "Cartone Pizza",
+          "unit": "pz",
+          "qty": 1
+        },
+        {
+          "nome": "Panetto Pizza",
+          "unit": "pz",
+          "qty": 1
+        },
+        {
+          "nome": "Mozzarella",
+          "unit": "kg",
+          "qty": 0.08
+        },
+        {
+          "nome": "Salsa di Pomodoro",
+          "unit": "kg",
+          "qty": 0.09
+        },
+        {
+          "nome": "Olio EVO",
+          "unit": "L",
+          "qty": 0.0012
+        },
+        {
+          "nome": "Basilico",
+          "unit": "kg",
+          "qty": 0.0005
+        },
+        {
+          "nome": "Coca cola 33",
+          "unit": "pz",
+          "qty": 1
+        },
+        {
+          "nome": "Cartone Fritto Piccolo",
+          "unit": "pz",
+          "qty": 1
+        },
+        {
+          "nome": "Crocchette di Patate",
+          "unit": "pz",
+          "qty": 4
+        }
+      ]
     }
   ],
   "ingredienti": [
