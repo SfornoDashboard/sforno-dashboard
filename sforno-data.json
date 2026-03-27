@@ -205,6 +205,20 @@
           "unit": "pz"
         }
       ]
+    },
+    {
+      "id": "jx9pdii",
+      "name": "Coca cola 33",
+      "catId": "bibita",
+      "emoji": "🥤",
+      "priceIva": 2,
+      "ingredienti": [
+        {
+          "nome": "Coca cola 33",
+          "qty": 1,
+          "unit": "pz"
+        }
+      ]
     }
   ],
   "ingredienti": [
