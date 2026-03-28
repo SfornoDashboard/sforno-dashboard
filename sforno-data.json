@@ -342,6 +342,20 @@
           "qty": 6
         }
       ]
+    },
+    {
+      "id": "p6qvokr",
+      "name": "Moretti 33 co",
+      "catId": "birreazn6hws",
+      "emoji": "🍺",
+      "priceIva": 2.5,
+      "ingredienti": [
+        {
+          "nome": "Moretti 33 cl",
+          "qty": 1,
+          "unit": "pz"
+        }
+      ]
     }
   ],
   "ingredienti": [
