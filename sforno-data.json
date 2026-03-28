@@ -568,6 +568,13 @@
       "unit": "pz",
       "costo": 0.55,
       "catId": "bibitebv2ejy3"
+    },
+    {
+      "id": "k0qdt4f",
+      "nome": "Moretti 33 cl",
+      "unit": "pz",
+      "costo": 0.75,
+      "catId": "birreinz08ua"
     }
   ],
   "recipeCats": [
