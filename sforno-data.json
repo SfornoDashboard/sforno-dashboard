@@ -209,13 +209,6 @@
   ],
   "ingredienti": [
     {
-      "id": "i04",
-      "nome": "Cartone Fritto Mix",
-      "unit": "pz",
-      "costo": 0.22,
-      "catId": "packaging"
-    },
-    {
       "id": "i05",
       "nome": "Panetto Pizza",
       "unit": "pz",
