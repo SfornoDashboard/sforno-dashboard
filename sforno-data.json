@@ -209,13 +209,6 @@
   ],
   "ingredienti": [
     {
-      "id": "i07",
-      "nome": "Salsa di Pomodoro",
-      "unit": "kg",
-      "costo": 2.5,
-      "catId": "salse"
-    },
-    {
       "id": "i09",
       "nome": "Olio EVO",
       "unit": "L",
