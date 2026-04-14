@@ -230,13 +230,6 @@
       "catId": "salse"
     },
     {
-      "id": "i08",
-      "nome": "Origano",
-      "unit": "kg",
-      "costo": 12,
-      "catId": "olio_condimenti"
-    },
-    {
       "id": "i09",
       "nome": "Olio EVO",
       "unit": "L",
