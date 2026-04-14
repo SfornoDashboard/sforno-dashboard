@@ -209,13 +209,6 @@
   ],
   "ingredienti": [
     {
-      "id": "i11",
-      "nome": "Nuggets",
-      "unit": "pz",
-      "costo": 0.2,
-      "catId": "fritti_base"
-    },
-    {
       "id": "i12",
       "nome": "Patatine",
       "unit": "kg",
