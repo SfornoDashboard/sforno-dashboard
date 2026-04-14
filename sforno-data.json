@@ -209,13 +209,6 @@
   ],
   "ingredienti": [
     {
-      "id": "i01",
-      "nome": "Cartone Pizza",
-      "unit": "pz",
-      "costo": 0.18,
-      "catId": "packaging"
-    },
-    {
       "id": "i02",
       "nome": "Cartone Fritto Piccolo",
       "unit": "pz",
