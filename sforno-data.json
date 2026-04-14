@@ -209,13 +209,6 @@
   ],
   "ingredienti": [
     {
-      "id": "i06",
-      "nome": "Mozzarella",
-      "unit": "kg",
-      "costo": 7,
-      "catId": "formaggi"
-    },
-    {
       "id": "i07",
       "nome": "Salsa di Pomodoro",
       "unit": "kg",
