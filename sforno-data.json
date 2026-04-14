@@ -209,13 +209,6 @@
   ],
   "ingredienti": [
     {
-      "id": "i09",
-      "nome": "Olio EVO",
-      "unit": "L",
-      "costo": 6,
-      "catId": "olio_condimenti"
-    },
-    {
       "id": "i10",
       "nome": "Basilico",
       "unit": "kg",
