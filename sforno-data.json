@@ -209,13 +209,6 @@
   ],
   "ingredienti": [
     {
-      "id": "i10",
-      "nome": "Basilico",
-      "unit": "kg",
-      "costo": 60,
-      "catId": "verdure"
-    },
-    {
       "id": "i11",
       "nome": "Nuggets",
       "unit": "pz",
