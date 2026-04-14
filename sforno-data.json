@@ -209,13 +209,6 @@
   ],
   "ingredienti": [
     {
-      "id": "i05",
-      "nome": "Panetto Pizza",
-      "unit": "pz",
-      "costo": 0.7,
-      "catId": "farine"
-    },
-    {
       "id": "i06",
       "nome": "Mozzarella",
       "unit": "kg",
