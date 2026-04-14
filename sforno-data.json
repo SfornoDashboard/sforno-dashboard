@@ -209,13 +209,6 @@
   ],
   "ingredienti": [
     {
-      "id": "i02",
-      "nome": "Cartone Fritto Piccolo",
-      "unit": "pz",
-      "costo": 0.12,
-      "catId": "packaging"
-    },
-    {
       "id": "i03",
       "nome": "Cartone Fritto Grande",
       "unit": "pz",
