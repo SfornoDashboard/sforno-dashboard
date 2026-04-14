@@ -1,42 +1,6 @@
 {
   "products": [],
-  "ingredienti": [
-    {
-      "id": "i28",
-      "nome": "Mortadella",
-      "unit": "kg",
-      "costo": 10,
-      "catId": "carni_salumi"
-    },
-    {
-      "id": "i29",
-      "nome": "Speck",
-      "unit": "kg",
-      "costo": 20,
-      "catId": "carni_salumi"
-    },
-    {
-      "id": "i30",
-      "nome": "Nduja",
-      "unit": "kg",
-      "costo": 10,
-      "catId": "carni_salumi"
-    },
-    {
-      "id": "i31",
-      "nome": "Wurstel",
-      "unit": "kg",
-      "costo": 10,
-      "catId": "carni_salumi"
-    },
-    {
-      "id": "k0qdt4f",
-      "nome": "Moretti 33 cl",
-      "unit": "pz",
-      "costo": 0.75,
-      "catId": "birreinz08ua"
-    }
-  ],
+  "ingredienti": [],
   "recipeCats": [
     {
       "id": "pizza",
